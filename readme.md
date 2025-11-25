@@ -7,7 +7,7 @@
 
 > **A pixel-perfect, immersive recreation of Apple’s Macbook Pro product experience website** – built from scratch with React Three Fiber, GSAP ScrollTrigger, and advanced 3D animation techniques.
 
-Live Demo → [https://yourusername.github.io/apple-mac-project](https://yourusername.github.io/apple-mac-project) 
+Live Demo → [https://yourusername.github.io/apple-mac-project](https://mac-landing-psi.vercel.app/) 
 
 ![alt text](image.png)
 
